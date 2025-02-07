@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Recent graduate of Fullstack Academy software engineering bootcamp learning PERN stack, PostgreSQL, SQL, Express, Prisma, React, Javascript, HTML, CSS. 
+ 
 <!--
 **ladelpriore/ladelpriore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
