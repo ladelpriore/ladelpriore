@@ -1,6 +1,10 @@
 ## Hi there 👋
 
 Recent graduate of Fullstack Academy software engineering bootcamp learning PERN stack, PostgreSQL, SQL, Express, Prisma, React, Javascript, HTML, CSS. 
+
+🔭 Check out the pinned projects for a quick demo of the PERN stack. 
+
+🌱 For a deeper dive, review the repos (Blocks 1-40) to demonstrate each programming concept. 
  
 <!--
 **ladelpriore/ladelpriore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
