@@ -2,7 +2,7 @@
 
 Recent graduate of Fullstack Academy software engineering bootcamp learning PERN stack, PostgreSQL, SQL, Express, Prisma, React, Javascript, HTML, CSS. 
 
-🔭 Check out the pinned projects for a quick demo of the PERN stack. 
+🔭 Check out the pinned projects for a quick demo of the [PERN stack](https://medium.com/@ritapalves/get-started-with-the-pern-stack-an-introduction-and-implementation-guide-e33c55d09994).
 
 🌱 For a deeper dive, review the repos (Blocks 1-40) to demonstrate each programming concept. 
  
