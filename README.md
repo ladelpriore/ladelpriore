@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-AI product builder and product manager for experimention and prototyping. See an example prototype from my portfolio here: https://campuscontext-core.lovable.app/dashboard
+This is my portfolio as a Product Manager and AI Product Builder. See below AI prototypes, full stack applications, and coding exercises. 
 
-Current Masters of Computer Science candidate at University of Colorado, Boulder. Recent graduate of Fullstack Academy's full-time bootcamp for software and data engineering, learning PERN stack, PostgreSQL, SQL, Express, Prisma, React, Javascript, HTML, CSS. 
+Here's an example prototype I developed for usability testing and technical feasibility of a data integration platform: https://campuscontext-core.lovable.app/dashboard
+
+Current Masters of Computer Science candidate at University of Colorado, Boulder for AI/ML and platform infrastructure. Graduate of Fullstack Academy's full-time bootcamp for software and data engineering, learning PERN stack, PostgreSQL, SQL, Express, Prisma, React, Javascript, HTML, CSS. 
 
 🔭 Check out the pinned projects. 🌱 For a deeper dive, review the repos (Blocks 1-40) to demonstrate foundational programming concepts I've learned. 
  
